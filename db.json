@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "cne": "R123654710",
+        "nom": "Foudali",
+        "prenom": "Youssef",
+        "telEtudiant": "0654374259",
+        "telParent": "0668124366"
+    },
+    {
+        "id": 2,
+        "cne": "R123654710",
+        "nom": "Oumohammed",
+        "prenom": "Amine",
+        "telEtudiant": "0654374259",
+        "telParent": "0668124366"
+    },
+    {
+        "id": 3,
+        "cne": "R123654710",
+        "nom": "Elmostaghfir",
+        "prenom": "Saad",
+        "telEtudiant": "0654374259",
+        "telParent": "0668124366"
+    },
+    {
+        "id": 4,
+        "cne": "R123654710",
+        "nom": "Hakimi",
+        "prenom": "Mehdi",
+        "telEtudiant": "0654374259",
+        "telParent": "0668124366"
+    },
+    {
+        "id": 5,
+        "cne": "R123654710",
+        "nom": "L9a7ba",
+        "prenom": "Manal",
+        "telEtudiant": "0654374259",
+        "telParent": "0668124366"
+    },
+    {
+        "id": 6,
+        "cne": "R123654710",
+        "nom": "Lbzazl",
+        "prenom": "khadija",
+        "telEtudiant": "0654374259",
+        "telParent": "0668124366"
+    },
+    {
+        "id": 7,
+        "cne": "R123654710",
+        "nom": "7lewa",
+        "prenom": "Swa",
+        "telEtudiant": "0654374259",
+        "telParent": "0668124366"
+    },
+    
+]
